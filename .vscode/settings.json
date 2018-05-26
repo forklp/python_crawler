@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\Users\\Administrator.PC-20160606XNUT\\AppData\\Local\\Programs\\Python\\Python35-32\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.autoComplete.extraPaths": [
+        "${env.SPARK_HOME}\\python",
+        "${env.SPARK_HOME}\\python\\pyspark"
+    ],
+    "python.linting.pylintArgs": [
+        "--load-plugins", "pylint_django"
+    ],
+    "python.linting.enabled": false,
+    "python.linting.pep8Enabled": true,
+    
+}
